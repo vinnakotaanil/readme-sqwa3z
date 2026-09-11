@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinnakotaanil.github.io/readme-sqwa3z/sitemap.xml
